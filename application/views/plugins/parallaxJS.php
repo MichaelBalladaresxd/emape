@@ -1,0 +1,1 @@
+<script src="<?php echo base_url("public/"); ?>plugins/parallax.js/parallax.js" type="text/javascript"></script>

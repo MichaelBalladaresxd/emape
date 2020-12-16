@@ -1,0 +1,2 @@
+<link href="<?php echo base_url(); ?>recursos/plugins/lightbox2-master/src/css/lightbox.css" rel="stylesheet" type="text/css"/>
+<script src="<?php echo base_url(); ?>recursos/plugins/lightbox2-master/src/js/lightbox.js" type="text/javascript"></script>

@@ -1,0 +1,2 @@
+<link href="<?php echo base_url('public/'); ?>plugins/bootstrap-sweetalert-master/dist/sweetalert.css" rel="stylesheet" type="text/css"/>
+<script src="<?php echo base_url('public/'); ?>plugins/bootstrap-sweetalert-master/dist/sweetalert.js" type="text/javascript"></script>
